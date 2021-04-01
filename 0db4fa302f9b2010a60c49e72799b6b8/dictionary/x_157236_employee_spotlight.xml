@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Spotlight" max_length="40" name="x_157236_employee_spotlight" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Employee Name" max_length="255" name="employee_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Why Spotlight" max_length="4000" name="why_spotlight" type="string"/>
+    </element>
+</database>
